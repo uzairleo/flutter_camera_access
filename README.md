@@ -5,8 +5,11 @@
  ```
     path_provider: any
     camera: any
+    path: any
  ```
  - Now ensure the current cameras initialization 
+      ` widgetsFlutterBinding.ensureInitialized `
+      
  - check for the list of cameras available 
  - creat a camera controller and future initization controller
  - update all controller in initStater()
