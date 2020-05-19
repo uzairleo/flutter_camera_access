@@ -11,6 +11,8 @@
       ` widgetsFlutterBinding.ensureInitialized `
       
  - check for the list of cameras available 
+       -- `final cameras= new availableCameras()`
+       -- `final firstCamera= cameras.first;`
  - creat a camera controller and future initization controller
  - update all controller in initStater()
  - user futureBuilder to show camera using camerapreview() only if available otherwise use progress indicator 
