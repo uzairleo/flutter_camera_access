@@ -18,7 +18,7 @@
  - user futureBuilder to show camera using camerapreview() only if available otherwise use progress indicator 
  - Now capture image using take picture function and save it on a temporary path using a path_provider plugin 
 
-![](camera.gif)
+![](camera0.gif)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
