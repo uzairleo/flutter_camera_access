@@ -19,6 +19,10 @@
  - Now capture image using take picture function and save it on a temporary path using a path_provider plugin 
 
 ![](camera0.gif)
+
+## Follow me 
+
+- [facebook](https://web.facebook.com/uzairleo.336)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
